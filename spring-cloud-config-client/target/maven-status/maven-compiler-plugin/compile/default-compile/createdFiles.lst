@@ -1,0 +1,4 @@
+com\configclient\springcloudconfigclient\SpringCloudConfigClientApplication.class
+com\configclient\springcloudconfigclient\controller\MainController.class
+com\configclient\springcloudconfigclient\controller\ConfigProps.class
+com\configclient\springcloudconfigclient\controller\ChannelInfo.class

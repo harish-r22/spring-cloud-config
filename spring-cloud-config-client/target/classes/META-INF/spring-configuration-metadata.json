@@ -1,0 +1,42 @@
+{
+  "groups": [
+    {
+      "name": "",
+      "type": "com.configclient.springcloudconfigclient.controller.ConfigProps",
+      "sourceType": "com.configclient.springcloudconfigclient.controller.ConfigProps"
+    }
+  ],
+  "properties": [
+    {
+      "name": "base-config-map",
+      "type": "java.util.Map<java.lang.String,java.lang.String>",
+      "sourceType": "com.configclient.springcloudconfigclient.controller.ConfigProps"
+    },
+    {
+      "name": "config-map",
+      "type": "java.util.Map<java.lang.String,java.lang.String>",
+      "sourceType": "com.configclient.springcloudconfigclient.controller.ConfigProps"
+    },
+    {
+      "name": "magellan-config",
+      "type": "java.lang.String",
+      "sourceType": "com.configclient.springcloudconfigclient.controller.ConfigProps"
+    },
+    {
+      "name": "name",
+      "type": "java.lang.String",
+      "sourceType": "com.configclient.springcloudconfigclient.controller.ConfigProps"
+    },
+    {
+      "name": "source",
+      "type": "java.lang.String",
+      "sourceType": "com.configclient.springcloudconfigclient.controller.ConfigProps"
+    },
+    {
+      "name": "url",
+      "type": "java.lang.String",
+      "sourceType": "com.configclient.springcloudconfigclient.controller.ConfigProps"
+    }
+  ],
+  "hints": []
+}
